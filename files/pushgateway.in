@@ -29,7 +29,6 @@
 
 name=pushgateway
 rcvar=pushgateway_enable
-desc="Prometheus pushgateway service"
 
 load_rc_config $name
 
